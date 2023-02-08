@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f767d8384a29747823fb7b57426bf4, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  dialouge:
+  - Press E to go next
+  - Crow- Kris
+  - Kris- Who's that?
+  - Crow- It's me my child, Garun, and i am here to guide you on your journey to
+    find your roots.
+  - Kris- My roots?
+  - Garun- You think of yourself as a farmer, it's time, you learnt of your true
+    lineage.
+  - Kris- My lineage?
+  - You come from the royal blood of king Vasu.
+  - Garun- Vasu was impresoned by his evil brother in law. Kans 5 years ago.
+  - Kris- But why would his kin betray their own
+  - Garun- The greed of mankind knows no bound.
+  - Garun- There was an ancient prophecy, that foretold of a boy, that would usher
+    in peace....
+  - ....By Restoring...the security of his roots.
+  - Kris- Where is my father Though?
+  - Garun- His soul resides in purgatory, Never to return to the mortal plane, Unless......
+  - Garun- You and your powers can do something about it
+  - Garun- There was bridge here, travel back in time to cross the river
+  - Press L.Shift to Travel back in time
+  responses: []
